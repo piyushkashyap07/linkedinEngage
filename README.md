@@ -1,3 +1,5 @@
+### Linkedin Engagement
+
 ```markdown
 # Project Setup Guide
 
@@ -7,6 +9,11 @@ This guide will walk you through the steps to set up and run the project locally
 
 ### 1. Clone the Repository
 Clone the repository to your local machine:
+
+```bash
+git clone https://github.com/piyushkashyap07/linkedinEngage.git
+cd linkedinEngage
+```
 
 ### 2. Obtain Your Gemini API Key
 
@@ -18,7 +25,7 @@ To access the Gemini API, follow these steps:
 
 ### 3. Configure the Backend
 
-Once you've obtained your Gemini API key, you'll need to insert it into the backend configuration:
+Once you've obtained your Gemini API key, insert it into the backend configuration:
 
 1. Navigate to the `Backend` folder:
    ```bash
@@ -51,7 +58,7 @@ Once you've obtained your Gemini API key, you'll need to insert it into the back
 
 3. **Install project dependencies**:
 
-   Navigate to the `Backend` directory (if you're not already there), and run the following command to install all required packages:
+   Navigate to the `Backend` directory (if you're not already there), and run the following command:
    ```bash
    pip install -r requirements.txt
    ```
@@ -81,15 +88,13 @@ To load and test the Chrome extension locally:
 
 3. Click on **Load Unpacked** and select the extension folder from your project directory.
 
-4. The extension will now be loaded and ready to use.
-
 ---
 
 ## Conclusion
 
 You have now successfully set up and run the backend API with the Gemini API key integrated and the Chrome extension loaded. You're ready to test and develop further on the project!
 
-If you encounter any issues, please refer to the [Troubleshooting Guide](./TROUBLESHOOTING.md) or raise an issue in the repository.
+If you encounter any issues, please raise an issue in the repository.
 ```
 
-This `README.md` covers the entire process of setting up the project from cloning the repository to running the FastAPI backend and loading the Chrome extension. It provides a clean, structured walkthrough for both backend configuration and frontend extension deployment.
+This version of the `README.md` focuses only on the core setup steps without unnecessary details.
