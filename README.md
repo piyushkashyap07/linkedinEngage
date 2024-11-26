@@ -6,7 +6,7 @@ This guide will walk you through the steps to set up and run the project locally
 ## Steps to Get Started
 
 ### 1. Clone the Repository
-Clone the repository to your local mac
+Clone the repository to your local machine:
 
 ### 2. Obtain Your Gemini API Key
 
