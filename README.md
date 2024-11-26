@@ -1,5 +1,3 @@
-Here's a detailed `README.md` in markdown format:
-
 ```markdown
 # Project Setup Guide
 
@@ -8,12 +6,7 @@ This guide will walk you through the steps to set up and run the project locally
 ## Steps to Get Started
 
 ### 1. Clone the Repository
-Clone the repository to your local machine:
-
-```bash
-git clone <repository_url>
-cd <repository_folder>
-```
+Clone the repository to your local mac
 
 ### 2. Obtain Your Gemini API Key
 
