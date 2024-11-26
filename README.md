@@ -95,5 +95,3 @@ You have now successfully set up and run the backend API with the Gemini API key
 
 If you encounter any issues, please raise an issue in the repository.
 ```
-
-This version of the `README.md` focuses only on the core setup steps without unnecessary details.
