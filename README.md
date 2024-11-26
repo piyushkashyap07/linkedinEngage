@@ -94,4 +94,3 @@ To load and test the Chrome extension locally:
 You have now successfully set up and run the backend API with the Gemini API key integrated and the Chrome extension loaded. You're ready to test and develop further on the project!
 
 If you encounter any issues, please raise an issue in the repository.
-```
