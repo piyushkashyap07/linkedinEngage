@@ -1,0 +1,21 @@
+{
+    "manifest_version": 3,
+    "name": "LinkedIn Post Text Extractor",
+    "description": "Extracts text of a LinkedIn post when its 'Comment' button is clicked.",
+    "version": "1.0",
+    "permissions": [
+        "scripting",
+        "activeTab"
+    ],
+    "content_scripts": [
+        {
+            "matches": [
+                "*://www.linkedin.com/*"
+            ],
+            "js": [
+                "content.js"
+            ]
+        }
+    ],
+    "action": {} 
+}
