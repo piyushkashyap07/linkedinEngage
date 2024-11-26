@@ -1,6 +1,5 @@
 ### Linkedin Engagement
 
-```markdown
 # Project Setup Guide
 
 This guide will walk you through the steps to set up and run the project locally. Follow each step carefully to ensure everything is properly configured.
