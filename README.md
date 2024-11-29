@@ -89,6 +89,12 @@ To load and test the Chrome extension locally:
 
 ---
 
+### License
+This project is licensed under the MIT License.
+You are free to use, modify, and distribute this project under the terms of the MIT License.
+
+
+
 ## Conclusion
 
 You have now successfully set up and run the backend API with the Gemini API key integrated and the Chrome extension loaded. You're ready to test and develop further on the project!
